@@ -1,2 +1,2 @@
 # build-snippets
-Author - Monika Sharma
+Author - Monika
